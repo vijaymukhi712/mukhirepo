@@ -1,5 +1,5 @@
 <manifest>
 <remote  name="vm" fetch="https://github.com" />
 <project path="vijay13" name="vijaymukhi712/mukhifirst" remote="vm" revision="master" />
-<project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="vm" revision="cm-10.1" />
+<project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="vm" revision="cm-11.1" />
 </manifest>
