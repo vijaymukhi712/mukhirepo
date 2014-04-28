@@ -1,4 +1,4 @@
 <manifest>
 <remote  name="vm" fetch="https://github.com" />
-<project path="vijay13" name="vijaymukhi712/vijaybranch" remote="vm" revision="master" />
+<project path="vijay13" name="vijaymukhi712/vijaybranch" remote="vm" revision="master,cm_11,cm_12" />
 </manifest>
